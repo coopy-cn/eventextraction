@@ -36,7 +36,11 @@ pip3 install eventextraction
 
 ### 2.2 加镜像站点
 
-有的童鞋已经把pip默认安装镜像站点改为国内，如果国内镜像还未收录我的这个包，那么可能会安装失败。只能从国外https://pypi.org/simple站点搜索eventextraction资源并安装
+有的童鞋已经把pip默认安装镜像站点改为国内，如果国内镜像还未收录我的这个包，那么可能会安装失败。只能从国外
+
+https://pypi.org/simple
+
+站点搜索eventextraction资源并安装
 
 ```
 pip3 install eventextraction -i https://pypi.org/simple
