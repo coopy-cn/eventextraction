@@ -109,5 +109,5 @@ print(extractor.stats(datas))
 
 # 支持一下
 
-![](https://github.com/thunderhit/DaDengAndHisPython/blob/master/img/my_zanshang_qrcode.jpg)
+![](img/my_zanshang_qrcode2.jpg)
 
