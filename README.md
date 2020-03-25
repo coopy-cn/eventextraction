@@ -103,9 +103,10 @@ print(extractor.stats(datas))
 # 更多
 
 - [B站:大邓和他的python](https://space.bilibili.com/122592901/channel/detail?cid=66008)
-- 公众号：大邓和他的python
 - [知乎专栏：数据科学家](https://zhuanlan.zhihu.com/dadeng)
 - [《python网络爬虫与文本数据分析》](https://ke.qq.com/course/482241?tuin=163164df)视频课
+- 扫码关注【公众号：大邓和他的python】
+![](img/公众号下方二维码.png)
 
 # 支持一下
 
