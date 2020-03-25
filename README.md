@@ -107,3 +107,7 @@ print(extractor.stats(datas))
 - [知乎专栏：数据科学家](https://zhuanlan.zhihu.com/dadeng)
 - [《python网络爬虫与文本数据分析》](https://ke.qq.com/course/482241?tuin=163164df)视频课
 
+# 支持一下
+
+![](https://github.com/thunderhit/DaDengAndHisPython/blob/master/img/my_zanshang_qrcode.jpg)
+
