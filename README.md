@@ -28,25 +28,14 @@
 
 ### 2.1 方法一
 
-最简单的安装,现在由于国内外网络不稳定，可能需要尝试几次
+最简单的安装
 
 ```
 pip3 install eventextraction
 ```
 
-### 2.2 加镜像站点
 
-有的童鞋已经把pip默认安装镜像站点改为国内，如果国内镜像还未收录我的这个包，那么可能会安装失败。只能从国外
-
-https://pypi.org/simple
-
-站点搜索eventextraction资源并安装
-
-```
-pip3 install eventextraction -i https://pypi.org/simple
-```
-
-### 2.3 国内镜像安装
+### 2.2 国内镜像安装
 
 如果国内镜像站点已经收录，那么使用这个会更快
 
